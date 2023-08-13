@@ -11,12 +11,16 @@ Tugas ini melibatkan perancangan tampilan, konfigurasi web server, integrasi den
 
 ## Arsitektur Cloud
 Berikut adalah arsitektur cloud pada GCP untuk mendeploy aplikasi:
+![Arsitektur Cloud](https://github.com/mzfuadi97/CloudEngineer-ProfileHosting/assets/70827786/387bf8e9-2674-4eda-b97f-ad202a3bd32b)
 
 ## Dokumentasi Deploy Aplikasi
 ### User Interface
+![SS UI](https://github.com/mzfuadi97/CloudEngineer-ProfileHosting/assets/70827786/dde23411-2071-4059-a804-cd3f7f748629)
 
-### Bucket-Moneytrap
+### Bucket-Profile
+![SS Bucket](https://github.com/mzfuadi97/CloudEngineer-ProfileHosting/assets/70827786/02e33627-caad-4b86-8fb2-a817ef72af11)
 
-### Intances-Moneytrap
+### Intances-Profile
+![SS Instance](https://github.com/mzfuadi97/CloudEngineer-ProfileHosting/assets/70827786/bfd18656-0c36-4d42-8427-3da96e2d90f3)
 
 
